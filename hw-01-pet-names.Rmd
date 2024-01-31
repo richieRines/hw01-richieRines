@@ -239,6 +239,8 @@ There are 52,519 pets.
 
 2.  Again, according to the data dictionary, how many variables do we have for each pet?
 
+There are 7 variables for each pet.
+
 🧶 ✅ ⬆️ *Write your answer in your R Markdown document under Exercise 2, knit the document, commit your changes with a commit message that says "Completed Exercise 2", and push. Make sure to commit and push all changed files so that your Git pane is cleared up afterwards.*
 
 3.  What are the three most common pet names in Seattle? To do this you will need to count the frequencies of each pet name and display the results in descending order of frequency so that you can easily see the top three most popular names. The following code does exactly that.

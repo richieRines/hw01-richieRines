@@ -1,6 +1,7 @@
 ---
 title: "HW 01 - Pet names"
 subtitle: "Meet the toolkit"
+author: "Richie Rines"
 output: 
   tufte::tufte_html:
     css: ../hw.css
